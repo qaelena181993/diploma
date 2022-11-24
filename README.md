@@ -33,6 +33,9 @@ ___
 
 ## Документация проекта:
 [1.Задание к диплому](https://github.com/qaelena181993/diploma/blob/master/Documents/TaskDescription.md) 
+
 [2.План автоматизации](https://github.com/qaelena181993/diploma/blob/master/Documents/Plan.md)  
+
 [3.Отчет по итогам тестирования](https://github.com/qaelena181993/diploma/blob/master/Documents/Report.md)  
+
 [4.Отчет по итогам автоматизации](https://github.com/qaelena181993/diploma/blob/master/Documents/Summary.md)
